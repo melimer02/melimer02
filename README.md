@@ -1,6 +1,6 @@
 # Bonjour, je suis Mélissa ! 👋
 
-**Développeuse Full Stack & IA** 
+**Développeuse logiciel  & IA** 
 
 J'aime concevoir des applications modernes, robustes, et y intégrer de l'intelligence artificielle pour résoudre des problèmes complexes.
 
